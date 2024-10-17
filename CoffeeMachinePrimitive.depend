@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1654038776 source:c:\users\amer\desktop\coffeemachineprimitive\main.cpp
+	<iostream>
+	<string>
+	"CoffeeMachine.h"
+
+1654043184 c:\users\amer\desktop\coffeemachineprimitive\coffeemachine.h
+	<string>
+
+1654043429 source:c:\users\amer\desktop\coffeemachineprimitive\coffeemachine.cpp
+	"CoffeeMachine.h"
+	<iostream>
+
+1654038776 source:c:\users\asus\desktop\projekat\main.cpp
+	<iostream>
+	<string>
+	"CoffeeMachine.h"
+
+1654125077 c:\users\asus\desktop\projekat\coffeemachine.h
+	<string>
+
+1654633566 source:c:\users\asus\desktop\projekat\coffeemachine.cpp
+	"CoffeeMachine.h"
+	<iostream>
+
